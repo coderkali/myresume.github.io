@@ -99,7 +99,13 @@ $(document).ready(function() {
        zoom: {
           enable: true
        }
-    })
+    });
+
+
+//     $('.slider').slick({
+//       arrows: false,
+//       autoplay: true
+//   });
 
 
 
